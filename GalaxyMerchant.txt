@@ -1,0 +1,2 @@
+java -jar galaxymerchant-1.0-SNAPSHOT.jar "input\input.txt"
+pause
